@@ -1,0 +1,10 @@
+num1 = int(input('Enter a number: '))
+num2 = int(input('Enter another number: '))
+# sum=num1+num2
+# print('Summation is: ', sum)
+if num1 < num2:
+    print('First number should be greater than 2nd number For positive result: ')
+    num1 = int(input('Please enter a greater value: '))
+
+sub = num1 - num2
+print('subtraction is: ', sub)

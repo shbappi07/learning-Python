@@ -9,3 +9,4 @@ while True:
 
 for name in catNames:
     print(''+name)
+ 
